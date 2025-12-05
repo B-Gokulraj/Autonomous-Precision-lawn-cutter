@@ -1,4 +1,4 @@
-# Line-Following Robot
+# Autonomuos Precision Lawn cutter
 
 ## Overview
 This project demonstrates an **Arduino-based line-following robot** designed to autonomously follow a predefined path using **IR sensors** and a **motor driver (L298N)**. It provides a low-cost, beginner-friendly solution for learning embedded systems, automation, and robotics.
